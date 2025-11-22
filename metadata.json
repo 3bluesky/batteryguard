@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 家用电池管家 (BatteryGuard AI)",
+  "description": "智能家用电池管理系统，支持电量记录、健康度监测、内阻分析及AI维护建议。",
+  "requestFramePermissions": []
+}
